@@ -5,9 +5,9 @@ Os algoritmos genéticos usam estratégias elitistas de sobrevivência dos indiv
 
 Existem várias questões que podem mudar de acordo com o problema a ser resolvido, as mais importantes são as questões relativas à função objetivo escolhida e a representação, sendo que a segunda reflete na implementação de detalhes de todos os operadores genéticos. As principais questões são as listadas a seguir:
 
-Função objetivo; 
-Tipo de representação; 
-Estratégia de seleção;
-Cruzamento (taxa) ; 
-Mutação (taxa);
+Função objetivo;   
+Tipo de representação;     
+Estratégia de seleção;   
+Cruzamento (taxa);    
+Mutação (taxa);    
 Elitismo 
